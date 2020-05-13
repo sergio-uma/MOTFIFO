@@ -1,0 +1,6 @@
+
+Todo:
+	Benchmarking
+	Multithread version (locks vs lockfree?)
+
+	
